@@ -1,0 +1,8 @@
+{
+  "name": "foca.validators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:focadev/foca.validators.git",
+  "author": "Jorge Soares <jorge.soares@focanocodigo.cloud>",
+  "license": "MIT"
+}
